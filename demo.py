@@ -65,4 +65,5 @@ if uploaded_file:
                 remaining=MAX_QUERIES-st.session_state.query_count
                 st.info(f"You have {remaining} queries remaining in demo.")
             else:
-                st.error("Demo limit reached.[Request full access](https://www.notion.so/AI-Chatbots-That-Work-While-You-Sleep-245eb1fcbdfb80678680f57248d685c8)")
+
+                st.error("Demo limit reached.[Request full access](https://www.notion.so/AI-Chatbots-That-Work-While-You-Sleep-245eb1fcbdfb80678680f57248d685c8?source=copy_link)")
