@@ -16,7 +16,8 @@ We build custom AI chatbots for creators, consultants, agencies, and educators -
 - 'OpenAI' for answering questions
 - 'Streamlit' for frontend
 - 'FAISS' for vector search
-- 'PyPDF2', 'tiktoken', 'dotenv', 'pandas'
+- 'PyMuPDF', 'tiktoken'
 
 ## How To Run
+
 pip install -r requirements.txt
